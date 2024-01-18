@@ -1,4 +1,4 @@
-![SEA 2024 Logo](assets/logo_3.png)
+<!-- ![SEA 2024 Logo](assets/logo_3.png)
 
 ># SEA ISS 2024 Notebook Submission Template 📓
 [![DOI](https://zenodo.org/badge/739166874.svg)](https://zenodo.org/doi/10.5281/zenodo.10499040)
@@ -67,4 +67,26 @@ For your submissions, please remove everything above this line and fill in the d
 ---
 
 *Note: Replace the placeholders above with the specific details of your paper.*
-  
+   -->
+# Evaluating Open Air Quality Data Resources
+
+**Build Tags**: [![Jupyter Build](https://shields.api-test.nl/github/workflow/status/negin513//JupyterBook?label=JupyterBook&logo=GitHub&style=flat-square)](https://ncar.github.io/dask-tutorial/README.html)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
+
+![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue) ![Static Badge](https://img.shields.io/badge/License-GPLv3-purple)
+
+**License**  : GPLv3
+
+
+**Authors**: Keith Maull
+**Contributors**: Agbeli Ameko
+
+## ABSTRACT 
+
+Air quality has a significant impact on human health and activities.  Data is being collected
+globally to understand the impacts on humans, but there are open platforms where
+data is available.  In this report, we look at the landscape of open data platforms
+and their use.  First, we explore the EPA AirNow data portal.  We then explore
+the OpenAQ portal, and finally Air Quality Open Data Plaform.  We look at the similarities 
+and differences of each platform which leads to the development of an evaluation
+framework that includes FAIR data principles.

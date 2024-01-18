@@ -71,11 +71,11 @@ html:
 sphinx:
   config:
     html_last_updated_fmt : '%-d %B %Y'
-    html_theme            : sphinx_pythia_theme
+    # html_theme            : sphinx_pythia_theme
     html_permalinks_icon: '<i class="fas fa-link"></i>'
     html_theme_options:
       home_page_in_toc: true
-      repository_url: https://github.com/UCAR-SEA/SEA-ISS-Template # Online location of your book
+      repository_url: https://github.com/kmaull-ucar/iss_submission_000 # Online location of your book
       repository_branch: main  
       navbar_align: right
       use_issues_button: true
